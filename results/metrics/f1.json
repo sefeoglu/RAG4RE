@@ -1,0 +1,60 @@
+{"Flan T5-XL":
+          {"simple query":
+           {
+            "tacred":84.7,
+            "tacrev":65.1,
+            "re-tacred":71.2,
+            "semeval":15.37
+            },
+          "RAG4RE":{
+              "tacred":86.6,
+              "tacrev":88.3,
+              "re-tacred":73.3,
+              "semeval":14.07
+          }
+          },
+            "Flan T5-XXL":
+          {"simple query":
+           {
+            "tacred":60.9,
+            "tacrev":42.4,
+            "re-tacred":50.4,
+            "semeval":13.52
+            },
+          "RAG4RE":{
+              "tacred":73.8,
+              "tacrev":86.7,
+              "re-tacred":63.5,
+              "semeval":16.29
+          }
+          },
+        "Llama2-7b":{
+            "simple query":{
+                "tacred":7.8,
+                "tacrev":4.21,
+                "re-tacred": 05.24,
+                "semeval": 05.45
+            },
+            "RAG4RE":{
+                "tacred":48.92,
+                "tacrev":55.0,
+                "re-tacred":11.86,
+                "semeval": 04.28
+            }
+               
+           },
+        "Mistral-7b-v2":{
+            "simple query":{
+                "tacred":21.02,
+                "tacrev":14.0,
+                "re-tacred":15.15,
+                "semeval":24.92
+            },
+            "RAG4RE":{
+                "tacred":29.53,
+                "tacrev":30.78,
+                "re-tacred":32.33,
+                "semeval":23.41
+            }  
+        }
+         }

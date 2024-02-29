@@ -1,0 +1,49 @@
+{"Flan T5-XL":
+          {"simple query":
+           {
+            "tacred":
+            {"FP":4355,"FN":327},
+            "tacrev":
+            {"FP":7245,"FN":1251},
+            "re-tacred":
+            {"FP":5957,"FN":200},
+            "semeval":
+            {"FP":1306, "FN":1076}
+            },
+          "RAG4RE":{
+              "tacred":{"FP":3707, "FN":270},
+              "tacrev":{"FP":3396,"FN":331},
+              "re-tacred":{"FP":5655, "FN":93},
+              "semeval":{"FP":0,"FN":2579}
+          }
+          },
+        "Llama2-7b":{
+            "simple query":{
+                "tacred":{"FP":13770,"FN":563},
+                "tacrev":{"FP":13615,"FN":1266},
+                "re-tacred":{"FP":9642,"FN":3219},
+                "semeval":{"FP":0, "FN":2579}
+            },
+            "RAG4RE":{
+                "tacred":{"FP":5573, "FN":2550},
+                "tacrev":{"FP":3396,"FN":331},
+                "re-tacred":{"FP":5655, "FN":93},
+                "semeval":{"FP":0,"FN":2579}
+            }
+               
+           },
+        "Mistral-7b-v2":{
+            "simple query":{
+                "tacred":{"FP":6940,"FN":5946},
+                "tacrev":{"FP":5618,"FN":835},
+                "re-tacred":{"FP":5760,"FN":6103},
+                "semeval":{"FP":0, "FN":2055}
+            },
+            "RAG4RE":{
+                "tacred":{"FP":6169, "FN":5407},
+                "tacrev":{"FP":5829,"FN":5730},
+                "re-tacred":{"FP":5333, "FN":4726},
+                "semeval":{"FP":0,"FN":2099}
+            }  
+        }
+         }
