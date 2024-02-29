@@ -47,8 +47,8 @@ class LLM(object):
         """_summary_
 
         Args:
-            model (_type_): model
-            tokenizer (_type_): tokenizer
+            model : loaded model
+            tokenizer: loaded tokenizer
             prompt (str): prompt to generate response 
             length (int, optional): Response length. Defaults to 30.
 
