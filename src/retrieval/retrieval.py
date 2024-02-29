@@ -33,6 +33,7 @@ def benchmark_data_augmentation_call(config_file_path):
     dataset = config["SETTINGS"]["dataset"]
     prompt_type = config["SETTINGS"]["prompt_type"]
     model_name = config["SETTINGS"]["model_name"]
+    
     if prompt_type == "rag":
         print("RAG")
         output_prompts_path = config["OUTPUT"]["rag_test_prompts_path"]
