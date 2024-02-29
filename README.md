@@ -1,6 +1,7 @@
 # RAG4RE
 Retrieval-Augmented System-based Relation Extraction
-## Folder Hierarchy
+
+## Project Folder Hierarchy
 
 ````bash
 .
@@ -27,7 +28,21 @@ Retrieval-Augmented System-based Relation Extraction
 ````
 ## How to run
 Change the paths and configs under `config.ini`
-Then:
+* 1.) First instrall requirements
+````bash
+    pip install -r requirements.txt
+  
+````
+* 2.) Compute embeddings and similarities for benchmark datasets in advance
+````bash
+    cd src/data_augmentation/embeddings
+    python sentence_embeddings.py
+    python sentence_sim.py
+````
+* 3.) Run Project
+  
 ````bash
 $ python src/main.py
-```
+
+````
+
