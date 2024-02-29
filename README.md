@@ -30,6 +30,7 @@ The repository consists of the source codes of `Retrieval-Augmented System-based
 ## How to run
 Change the paths and configs under `config.ini`
 * 1.) Datasets
+  
    Put the following dataset under `data` folder.
   
    * TACRED dataset is lincensed by Linguistic Data Consortium (LDC), so please download it from [here](https://catalog.ldc.upenn.edu/LDC2018T24)
