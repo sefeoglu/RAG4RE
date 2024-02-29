@@ -1,0 +1,1 @@
+To generate  this TACREV dataset, your need to run the codes under the [folder](https://github.com/sefeoglu/RAG4RE/tree/master/src/data_preparation/tacrev)

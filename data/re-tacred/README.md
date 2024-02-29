@@ -1,0 +1,1 @@
+## please put your generated re-tacred dataset from original TACRED into this folder.
