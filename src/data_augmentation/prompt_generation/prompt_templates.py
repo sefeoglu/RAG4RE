@@ -26,7 +26,7 @@ def get_zero_shot_template_tacred_rag(sentence, relation, head, tail, context):
 
     template_zero_shot = """Problem Definition: Relation extraction is to identify the relationship between two entities in a sentence.\n""" +\
                         """ Question : What is the relation type between tail and head entities according to given relationships below in the following sentence?\n""" +\
-                        str(context)+ """\n""" +\
+                        """ Example Sentence: """+ str(context)+ """\n""" +\
                         """ Sentence:""" + str(sentence)+ """\n""" +\
                         """ tail: """ + head + """. \n""" +\
                         """ head: """ + tail + """. \n""" +\

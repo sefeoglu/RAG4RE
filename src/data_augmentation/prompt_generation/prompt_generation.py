@@ -1,7 +1,7 @@
 import os
 import sys
 import json
-from prompt_templates import get_zero_shot_template_tacred, get_zero_shot_template_tacred_rag, semeval_prompt_template_rag, semeval_prompt_template
+
 import re
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
@@ -11,7 +11,7 @@ PACKAGE_PARENT = '.'
 SCRIPT_DIR = os.path.dirname(os.path.realpath(os.path.join(os.getcwd(), os.path.expanduser(__file__))))
 sys.path.append(os.path.normpath(os.path.join(SCRIPT_DIR, PACKAGE_PARENT)))
 PREFIX_PATH = "/".join(os.path.dirname(os.path.abspath(__file__)).split("/")[:-1]) + "/"
-
+from prompt_templates import get_zero_shot_template_tacred, get_zero_shot_template_tacred_rag, semeval_prompt_template_rag, semeval_prompt_template
 def read_json(path):
     with open(path, 'r') as f:
         data = json.load(f)
@@ -28,13 +28,13 @@ def tacred_format(test_data, relations, similar_sentences, type="rag"):
             head = line['subject']
             tail = line['object']
 
-            if type == "simple":
+            if  type == "simple":
+                
                 prompt = get_zero_shot_template_tacred(sentence, relations, head, tail)
                 data = {"prompt":prompt, "relation":line['relation']}
             else:
                 context = similar_sentences[index]
-                train_relation = context['train_relation']
-                prompt = get_zero_shot_template_tacred_rag(sentence, relations, head, tail, context['similar_sentence'], train_relation)
+                prompt = get_zero_shot_template_tacred_rag(sentence, relations, head, tail, context['similar_sentence'])
                 data = {"prompt":prompt, "relation":line['relation']}
             prompts.append(data)
 
@@ -61,7 +61,7 @@ def semeval_format(test_data, relations, similar_sentences, labels, prompt_type=
                 head = "e1"
                 tail = "e2"
             else:
-                print("e2")
+                # print("e2")
                 head_name = re.findall("<e2>(.*?)</e2>", sentence, re.DOTALL)
                 tail_name = re.findall("<e1>(.*?)</e1>", sentence, re.DOTALL)
                 head = "e2"
@@ -90,9 +90,9 @@ def generate_prompts(sentences, relations, similar_sentences,  dataset="tacred",
             prompts = semeval_format(sentences, relations, relations, "rag")
     else:
         if prompt_type == "simple":
-            tacred_format(sentences, relations, similar_sentences)
+            prompts = tacred_format(sentences, relations, similar_sentences)
         else:
-            tacred_format(sentences, relations, similar_sentences, "rag")
+            prompts = tacred_format(sentences, relations, similar_sentences, "rag")
     
     return prompts
     

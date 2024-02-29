@@ -43,7 +43,7 @@ class LLM(object):
                                                     max_memory=self.maxmem)
         return model,tokenizer
     
-    def get_prediction(self, model,tokenizer, prompt, length=30):
+    def get_prediction(self, prompt, length=30):
         """_summary_
 
         Args:
@@ -56,11 +56,11 @@ class LLM(object):
             response (str): response from the model
         """
         
-        inputs = tokenizer(prompt, add_special_tokens=True, max_length=526,return_tensors="pt").input_ids.to("cuda")
+        inputs = self.tokenizer(prompt, add_special_tokens=True, max_length=526,return_tensors="pt").input_ids.to("cuda")
         
-        outputs = model.generate(inputs, max_new_tokens=length,do_sample=True,top_k=50,top_p=0.9)
+        outputs = self.model.generate(inputs, max_new_tokens=length,do_sample=True,top_k=50,top_p=0.9)
         
-        response = tokenizer.batch_decode(outputs, skip_special_tokens=True)
+        response = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
         
         return response
     

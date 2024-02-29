@@ -36,12 +36,12 @@ def clean_sentence(sent):
 def write_embeddings(embeddings, output_file):
     np.save(output_file, embeddings)
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    config = configparser.ConfigParser()
-    config = config.read("/Users/sefika/LLM-relation-extraction/config.ini")
-    input_file = config["EMBEDDING"]["input_embedding_path"]
-    output_file = config["EMBEDDING"]["output_embedding_path"]
-    data = read_json(input_file)
-    embeddings = compute_sentence(data)
-    write_embeddings(embeddings, output_file)
+#     config = configparser.ConfigParser()
+#     config = config.read("/Users/sefika/LLM-relation-extraction/config.ini")
+#     input_file = config["EMBEDDING"]["input_embedding_path"]
+#     output_file = config["EMBEDDING"]["output_embedding_path"]
+#     data = read_json(input_file)
+#     embeddings = compute_sentence(data)
+#     write_embeddings(embeddings, output_file)
