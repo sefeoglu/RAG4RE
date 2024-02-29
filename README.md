@@ -1,5 +1,5 @@
 # RAG4RE
-Retrieval-Augmented System-based Relation Extraction
+The repository consists of the source codes of `Retrieval-Augmented System-based Relation Extraction` journal paper which has been submitted into Semantic Web Journal (SWJ).
 
 
 ## Project Folder Hierarchy
