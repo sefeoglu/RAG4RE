@@ -1,0 +1,9 @@
+sentence_transformers
+transformers
+accelerate
+sentencepiece
+configparser
+numpy
+sklearn
+pandas
+re
