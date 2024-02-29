@@ -1,8 +1,4 @@
-# RAG4RE
-Retrieval-Augmented System-based Relation Extraction
-## Folder Hierarchy
-## How to run
-## Citiation
+
 # TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task [[Paper](https://arxiv.org/abs/2004.14855)]
 
 ## Table of Contents
