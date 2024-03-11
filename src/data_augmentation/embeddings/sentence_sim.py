@@ -13,12 +13,13 @@ PREFIX_PATH = "/".join(os.path.dirname(os.path.abspath(__file__)).split("/")[:-2
 import configparser
 
 def read_json(path):
+    """ Read json file"""
     with open(path, 'r') as f:
         data = json.load(f)
     return data
 
 def write_json(path, data):
-
+    """ Write json file"""
     if not os.path.exists(os.path.dirname(path)):
         os.makedirs(os.path.dirname(path))
         
@@ -28,6 +29,18 @@ def write_json(path, data):
 
 
 def compute_similarity(test_data, train_data, train_embeddings, test_embeddings):
+    """Compute Consine similarity between test and train embeddings
+
+    Args:
+        test_data (list): list of sentences
+        train_data (list): list of sentences
+        train_embeddings (list): list of sentence embeddings
+        test_embeddings (list): list of sentence embeddings
+
+    Returns:
+        list: list of similarity scores along with similar sentence and train data index
+    """
+
     similarities = []
 
     for test_index, _ in enumerate(test_data):
@@ -53,7 +66,16 @@ def compute_similarity(test_data, train_data, train_embeddings, test_embeddings)
 
 
 def semeval_compute_similarity(test_data, train_data, train_embeddings, test_embeddings):
-
+    """Compute Consine similarity between test and train embeddings for semeval dataset
+    Args:
+        test_data (list): list of sentences
+        train_data (list): list of sentences
+        train_embeddings (list): list of sentence embeddings
+        test_embeddings (list): list of sentence embeddings
+    Returns:
+        list: list of similarity scores along with similar sentence and train data index
+    """
+    
     similarities = []
 
     for test_index, _ in enumerate(test_data):
@@ -75,8 +97,11 @@ def semeval_compute_similarity(test_data, train_data, train_embeddings, test_emb
 
 
 def main(test_file, train_file, train_emb, test_emb, output_sim_path, dataset="semeval"):
+    """Compute similarity between test and train embeddings"""
+
     test_data = read_json(test_file)
     train_data = read_json(train_file)
+
     train_embeddings = np.load(train_emb)
     test_embeddings = np.load(test_emb)
 
@@ -98,4 +123,5 @@ if __name__ == "__main__":
     train_emb = config["SIMILARITY"]["train_emb"]
     test_emb = config["SIMILARITY"]["test_emb"]
     output_sim_path = config["SIMILARITY"]["output_index"]
+
     main(test_file, train_file, train_emb, test_emb, output_sim_path)
