@@ -54,6 +54,10 @@ def benchmark_data_augmentation_call(config_file_path):
 
     for prompt in prompts:
         prompt = prompt["prompt"]
+
+        if not "t5" in model_name:
+            prompt = """[INST]{prompt}[/INST] Answer:"""
+
         response = llm_instance.get_prediction(prompt)
         responses.append(response)
 
@@ -62,8 +66,3 @@ def benchmark_data_augmentation_call(config_file_path):
     write_json(output_prompts_path, prompts)
     write_json(output_responses_path, responses)
     
-
-# if __name__ == "__main__":
-#     config_file_path = "config.ini"
-#     benchmark_data_augmentation_call(config_file_path)
-
