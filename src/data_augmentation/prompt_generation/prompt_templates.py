@@ -27,7 +27,7 @@ def get_zero_shot_template_tacred_rag(sentence, relation, head, tail, context):
     template_zero_shot = """Problem Definition: Relation extraction is to identify the relationship between two entities in a sentence.\n""" +\
                         """ Question : What is the relation type between tail and head entities according to given relationships below in the following sentence?\n""" +\
                         """ Example Sentence: """+ str(context)+ """\n""" +\
-                        """ Sentence:""" + str(sentence)+ """\n""" +\
+                        """ Query Sentence:""" + str(sentence)+ """\n""" +\
                         """ tail: """ + head + """. \n""" +\
                         """ head: """ + tail + """. \n""" +\
                         """ Relation types: """ + relation + """. \n""" +\
@@ -46,7 +46,7 @@ def semeval_prompt_template_rag(sentence, relation, head, tail, head_name, tail_
     template_zero_shot = """Problem Definition: Relation extraction is to identify the relationship between two entities in a sentence.\n""" +\
                         """ Question : What is the relation type between """+head+""" and """+tail+""" entities according to given relationships below in the following sentence, considering example sentence and its relationship?\n""" +\
                         """ Example Sentence:"""+str(context)+ """\n""" +\
-                        """ Sentence:""" + str(sentence)+ """\n""" +\
+                        """ Query Sentence:""" + str(sentence)+ """\n""" +\
                         """ e1: """ + head_name + """. \n""" +\
                         """ e2 : """ + tail_name + """. \n""" +\
                         """ Relation types: """ + relation + """. \n""" +\
