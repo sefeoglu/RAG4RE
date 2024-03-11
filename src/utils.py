@@ -4,12 +4,13 @@ import logging
 import sys
 
 def read_json(path):
+    """ Read a json file from the given path."""
     with open(path, 'r') as f:
         data = json.load(f)
     return data
 
 def write_json(path, data):
-
+    """ Write a json file to the given path."""
     if not os.path.exists(os.path.dirname(path)):
         os.makedirs(os.path.dirname(path))
         
