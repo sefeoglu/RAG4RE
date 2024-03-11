@@ -5,7 +5,9 @@ import configparser
 from data_augmentation.prompt_generation.prompt_generation import generate_prompts
 from generation_module.generation import LLM
 import configparser
+
 from utils import read_json, write_json
+
 PACKAGE_PARENT = '.'
 SCRIPT_DIR = os.path.dirname(os.path.realpath(os.path.join(os.getcwd(), os.path.expanduser(__file__))))
 sys.path.append(os.path.normpath(os.path.join(SCRIPT_DIR, PACKAGE_PARENT)))
@@ -15,11 +17,13 @@ from refinement import postprocessing
 def benchmark_data_augmentation_call(config_file_path):
     """
     This function is used to benchmark the retrieval module.
+    Args:
+    config_file_path: str: Path to the config file.
     """
     print("PREFIX_PATH", PREFIX_PATH)
 
     config = configparser.ConfigParser()
-    config.read(PREFIX_PATH+"config.ini")
+    config.read(PREFIX_PATH + config_file_path)
     
     test_data_path = config["PATH"]["test_data_path"]
     similar_sentences_path = config["SIMILARITY"]["output_index"]
@@ -33,9 +37,9 @@ def benchmark_data_augmentation_call(config_file_path):
     dataset = config["SETTINGS"]["dataset"]
     prompt_type = config["SETTINGS"]["prompt_type"]
     model_name = config["SETTINGS"]["model_name"]
-    
+
     if prompt_type == "rag":
-        print("RAG")
+        # print("RAG")
         output_prompts_path = config["OUTPUT"]["rag_test_prompts_path"]
         output_responses_path = config["OUTPUT"]["rag_test_responses_path"]
         prompts = generate_prompts(test_data, relations, similar_sentences,  dataset, prompt_type)
