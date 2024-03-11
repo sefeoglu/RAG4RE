@@ -1,34 +1,34 @@
 # RAG4RE
-The repository consists of the source codes of `Retrieval-Augmented System-based Relation Extraction` journal paper which has been submitted into Semantic Web Journal (SWJ).
+The repository consists of the source codes of "Retrieval-Augmented System-based Relation Extraction" journal paper which has been submitted into Semantic Web Journal (SWJ).
 
 
 ## Project Folder Hierarchy
 
-````bash
+````
 .
 ├── LICENSE
 ├── README.md
-├── data
-├── results
+├── data                            ---> dataset, such as tacred, tacrev, re-tacred and semeval
+├── results                         ---> results will be saved here.
 └── src
-    ├── config.ini
-    ├── data_augmentation
-    │   ├── embeddings
-    │   └── prompt_generation
+    ├── config.ini                  ---> configuration for dataset, approach and llm and results.
     ├── data_preparation
-    ├── evaluation
-    │   ├── results_analysis.py
-    │   └── vizualization.py
-    ├── generation_module
-    │   └── generation.py
-    ├── main.py
-    ├── retrieval
+    ├── main.py                     ---> the pipeline is started with this
+    ├── retrieval                   ---> retrieval module
     │   ├── refinement.py
     │   └── retrieval.py
-    └── utils.py
+    ├── data_augmentation           ---> regenerated the user query
+    │   ├── embeddings
+    │   └── prompt_generation
+    ├── generation_module           ---> llm prompting.
+    │   └── generation.py
+    ├── evaluation                  ---> evaluate and visualize results. 
+    │   ├── results_analysis.py
+    │   └── vizualization.py
+    └── utils.py                    
 ````
 ## How to run
-Change the paths and configs under `config.ini`
+Change the paths and configs under `config.ini` for your experiment.
 * 1.) Datasets
   
    Put the following dataset under `data` folder.
