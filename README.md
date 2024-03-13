@@ -48,7 +48,6 @@ Change the paths and configs under `config.ini` for your experiment.
   
 ````bash
     pip install -r requirements.txt
-  
 ````
 * 3.) Compute embeddings and similarities for benchmark datasets in advance
 ````bash
