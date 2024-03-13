@@ -44,7 +44,7 @@ Change the paths and configs under `config.ini` for your experiment.
 
    * SemEval is available at the [hugging face](https://huggingface.co/datasets/sem_eval_2010_task_8) and under `data` folder.
 
-* 2.) First instrall requirements
+* 2.) First install requirements
   
 ````bash
     pip install -r requirements.txt
