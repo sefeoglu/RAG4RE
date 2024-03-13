@@ -1,0 +1,7 @@
+,dataset,model,approach,False Positives,False Negatives
+0,TACRED,llama2_7b,RAG4RE,1549,7258
+1,TACRED,llama2_7b,simple query,26,15336
+2,TACREV,llama2_7b,simple query,18,15438
+3,TACREV,llama2_7b,RAG4RE,1184,7676
+4,ReTACRED,llama2_7b,simple,18,13327
+5,ReTACRED,llama2_7b,RAG4RE,212,12937

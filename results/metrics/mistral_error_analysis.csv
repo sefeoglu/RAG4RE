@@ -1,0 +1,7 @@
+,dataset,model,approach,False Positives,False Negatives
+0,TACRED,Mistral,RAG4RE,509,11333
+1,TACRED,Mistral,simple query,82,13970
+2,TACREV,Mistral,simple query,52,14830
+3,TACREV,Mistral,RAG4RE,200,12557
+4,ReTACRED,Mistral,simple,233,12759
+5,ReTACRED,Mistral,RAG4RE,1546,9535
