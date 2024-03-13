@@ -6,8 +6,8 @@ from data_augmentation.prompt_generation.prompt_generation import generate_promp
 from generation_module.generation import LLM
 import configparser
 
-from utils import read_json, write_json
 
+from utils import read_json, write_json
 PACKAGE_PARENT = '.'
 SCRIPT_DIR = os.path.dirname(os.path.realpath(os.path.join(os.getcwd(), os.path.expanduser(__file__))))
 sys.path.append(os.path.normpath(os.path.join(SCRIPT_DIR, PACKAGE_PARENT)))
@@ -61,7 +61,7 @@ def benchmark_data_augmentation_call(config_file_path):
         response = llm_instance.get_prediction(prompt)
         responses.append(response)
 
-    responses = postprocessing(responses, relations, model_name)
+    responses = postprocessing(dataset, test_data, responses, relations, model_name)
     
     write_json(output_prompts_path, prompts)
     write_json(output_responses_path, responses)
