@@ -28,6 +28,7 @@ def error_analysis(ground_truths, preds, labels):
         preds = [pred.values()for pred in preds]
         preds = list(preds[0])
     # print("preds", type(preds))
+    ground_truths = [ground.split(" ")[-1].split(":")[-1].strip() for ground in ground_truths]
     preds = [pred.split(":")[-1].strip() for pred in preds]
     for i, truth in enumerate(ground_truths):
         # print("truth", preds[i])
