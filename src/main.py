@@ -1,4 +1,4 @@
-from retrieval.retrieval import benchmark_data_augmentation_call
+from retrieval.retriever import benchmark_data_augmentation_call
 
 def main():
     config_file_path = "config.ini"
