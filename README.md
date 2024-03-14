@@ -19,7 +19,7 @@ The repository consists of the source codes of "Retrieval-Augmented Generation-b
     ├── main.py                     ---> the pipeline is started with this
     ├── retrieval                   ---> retrieval module
     │   ├── refinement.py
-    │   └── retrieval.py
+    │   └── retriever.py
     ├── data_augmentation           ---> regenerated the user query
     │   ├── embeddings
     │   └── prompt_generation
