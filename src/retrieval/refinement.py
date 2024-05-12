@@ -115,7 +115,7 @@ def find_relations_inanswer(dataset_name, data, responses, relations):
             relation_types.append("")
 
         clean_data[str(i)] =  "no_relation" if relation_types[0] == "no relation" else relation_types[0]
-    write_json("/Users/sefika/Documents/RAG4RE/results/llama2_7b/returned_responses/llama_7b_tacred_simple_clean.json", clean_data)
+    # write_json("/Users/sefika/Documents/RAG4RE/results/llama2_7b/returned_responses/llama_7b_tacred_simple_clean.json", clean_data)
     preds = []
     if dataset_name != "semeval":
         for i, sentence in enumerate(data):
