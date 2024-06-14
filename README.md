@@ -4,7 +4,20 @@
 
 The repository consists of the source codes of "Retrieval-Augmented Generation-based Relation Extraction" journal paper which has been submitted to Semantic Web Journal (SWJ).
 
-Note: This project's paper is still under review!
+Note: This project's paper is still under review at the SWJ!
+
+### To cite its preprint:
+```
+@misc{efeoglu2024retrievalaugmented,
+      title={Retrieval-Augmented Generation-based Relation Extraction}, 
+      author={Sefika Efeoglu and Adrian Paschke},
+      year={2024},
+      eprint={2404.13397},
+      archivePrefix={arXiv}
+}
+```
+
+
 #### Please use the setting in this branch. There is no sampling on prediction of T5 results.
 
 Note that TACRED is licensed by the Linguistic Data Consortium (LDC), so we cannot directly publish the prompts or the raw results from the experiments conducted with Llama and Mistral, since the responses of these models consists of the prompts in their instruction parts. However, we have published the returned results when Llama and Mistral were integrated. Upon an official request, the data can be accessed on LDC, and the experiments can be easily replicated by following the instructions provided.
