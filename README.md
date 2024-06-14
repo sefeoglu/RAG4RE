@@ -1,6 +1,9 @@
 # RAG4RE
 [![Python  3.10.9](https://img.shields.io/badge/python-3.10.9-blue.svg)](https://www.python.org/downloads/release/python-3109/)
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-tacred)](https://paperswithcode.com/sota/relation-extraction-on-tacred?p=retrieval-augmented-generation-based-relation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-tacred-revisited)](https://paperswithcode.com/sota/relation-extraction-on-tacred-revisited?p=retrieval-augmented-generation-based-relation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-semeval-2010-task-8-1)](https://paperswithcode.com/sota/relation-extraction-on-semeval-2010-task-8-1?p=retrieval-augmented-generation-based-relation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-re-tacred)](https://paperswithcode.com/sota/relation-extraction-on-re-tacred?p=retrieval-augmented-generation-based-relation)
 
 The repository consists of the source codes of "Retrieval-Augmented Generation-based Relation Extraction" journal paper which has been submitted to Semantic Web Journal (SWJ).
 
