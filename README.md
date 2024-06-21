@@ -23,6 +23,8 @@ Note: This project's paper is still under review at the SWJ!
 
 #### Please use the setting in this branch. There is no sampling on prediction of T5 results. Please use original TACRED datasets from the [LDC](https://catalog.ldc.upenn.edu/LDC2018T24)
 
+#### Hardware: NVIDIA GeForce GTX 1080 Ti (4GPUs X 12GB, cpu=300 GB).
+
 Note that TACRED is licensed by the Linguistic Data Consortium (LDC), so we cannot directly publish the prompts or the raw results from the experiments conducted with Llama and Mistral, since the responses of these models consists of the prompts in their instruction parts. However, we have published the returned results when Llama and Mistral were integrated. Upon an official request, the data can be accessed on LDC, and the experiments can be easily replicated by following the instructions provided.
 
 ## Project Folder Hierarchy
