@@ -63,7 +63,6 @@ def semeval_format(test_data, relations, similar_sentences, prompt_type="simple"
         test_data (list): list of test sentences along with e1 and e2
         relations (list): target relation label indexes
         similar_sentences (list): list of similar sentence with corresponding test data
-        labels (list): the list  of target label names
         prompt_type (str, optional): prompt type. Defaults to "simple".
 
     Returns:
