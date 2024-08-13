@@ -1,18 +1,16 @@
 import os
 import sys
-import configparser
 
-from data_augmentation.prompt_generation.prompt_generation import generate_prompts
-from generation_module.generation import LLM
-import configparser
-
-
-from utils import read_json, write_json
 PACKAGE_PARENT = '.'
 SCRIPT_DIR = os.path.dirname(os.path.realpath(os.path.join(os.getcwd(), os.path.expanduser(__file__))))
 sys.path.append(os.path.normpath(os.path.join(SCRIPT_DIR, PACKAGE_PARENT)))
-PREFIX_PATH = "/".join(os.path.dirname(os.path.abspath(__file__)).split("/")[:-1]) + "/"
+
 from refinement import postprocessing
+from data_augmentation.prompt_generation.prompt_generation import generate_prompts
+from generation_module.generation import LLM
+import configparser
+from utils import read_json, write_json
+PREFIX_PATH = "/".join(os.path.dirname(os.path.abspath(__file__)).split("/")[:-1]) + "/"
 
 def benchmark_data_augmentation_call(config_file_path):
     """
@@ -28,15 +26,17 @@ def benchmark_data_augmentation_call(config_file_path):
     test_data_path = config["PATH"]["test_data_path"]
     similar_sentences_path = config["SIMILARITY"]["output_index"]
     relations_path = config["PATH"]["relations_path"]
-    
-    similar_sentences = read_json(similar_sentences_path)
-    relations = read_json(relations_path)
-    relations = relations.keys()
-    test_data = read_json(test_data_path)
-
     dataset = config["SETTINGS"]["dataset"]
     prompt_type = config["SETTINGS"]["prompt_type"]
     model_name = config["SETTINGS"]["model_name"]
+    similar_sentences = read_json(similar_sentences_path)
+    relations = read_json(relations_path)
+
+    if dataset != "semeval":
+        relations = relations.keys()
+    else:
+        relations = relations
+    test_data = read_json(test_data_path)
 
     if prompt_type == "rag":
         # print("RAG")
