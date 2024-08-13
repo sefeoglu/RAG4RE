@@ -28,8 +28,8 @@ def get_zero_shot_template_tacred_rag(sentence, relation, head, tail, context):
                         """ Question : What is the relation type between tail and head entities according to given relationships below in the following sentence?\n""" +\
                         """ Example Sentence: """+ str(context)+ """\n""" +\
                         """ Query Sentence:""" + str(sentence)+ """\n""" +\
-                        """ tail: """ + head + """. \n""" +\
-                        """ head: """ + tail + """. \n""" +\
+                        """ head: """ + head + """. \n""" +\
+                        """ tail: """ + tail + """. \n""" +\
                         """ Relation types: """ + relation + """. \n""" +\
                         """ output format: relation_type"""
     return template_zero_shot
