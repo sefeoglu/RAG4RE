@@ -1,8 +1,29 @@
 # RAG4RE
 [![Python  3.10.9](https://img.shields.io/badge/python-3.10.9-blue.svg)](https://www.python.org/downloads/release/python-3109/)
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-tacred)](https://paperswithcode.com/sota/relation-extraction-on-tacred?p=retrieval-augmented-generation-based-relation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-tacred-revisited)](https://paperswithcode.com/sota/relation-extraction-on-tacred-revisited?p=retrieval-augmented-generation-based-relation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-semeval-2010-task-8-1)](https://paperswithcode.com/sota/relation-extraction-on-semeval-2010-task-8-1?p=retrieval-augmented-generation-based-relation)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/retrieval-augmented-generation-based-relation/relation-extraction-on-re-tacred)](https://paperswithcode.com/sota/relation-extraction-on-re-tacred?p=retrieval-augmented-generation-based-relation)
 
 The repository consists of the source codes of "Retrieval-Augmented Generation-based Relation Extraction" journal paper which has been submitted to Semantic Web Journal (SWJ).
+
+Note: This project's paper is still under review at the SWJ!
+
+### To cite its preprint:
+```
+@misc{efeoglu2024retrievalaugmented,
+      title={Retrieval-Augmented Generation-based Relation Extraction}, 
+      author={Sefika Efeoglu and Adrian Paschke},
+      year={2024},
+      eprint={2404.13397},
+      archivePrefix={arXiv}
+}
+```
+
+
+#### Please use the setting in this branch. There is no sampling on prediction of T5 results. Please use original TACRED datasets from the [LDC](https://catalog.ldc.upenn.edu/LDC2018T24)
+
+#### Hardware: NVIDIA GeForce GTX 1080 Ti (4GPUs X 12GB, cpu=300 GB).
 
 Note that TACRED is licensed by the Linguistic Data Consortium (LDC), so we cannot directly publish the prompts or the raw results from the experiments conducted with Llama and Mistral, since the responses of these models consists of the prompts in their instruction parts. However, we have published the returned results when Llama and Mistral were integrated. Upon an official request, the data can be accessed on LDC, and the experiments can be easily replicated by following the instructions provided.
 

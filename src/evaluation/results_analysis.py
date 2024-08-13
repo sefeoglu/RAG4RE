@@ -66,24 +66,35 @@ def compute_scores(predictions, ground_truths, labels):
 if __name__ == "__main__":
   
     config = configparser.ConfigParser()
-    config.read(PREFIX_PATH+"config.ini")
+    config.read("config.ini")
     prompt_type = config["SETTINGS"]["prompt_type"]
-
+    print(prompt_type)
     if prompt_type == "rag":
         prediction_path = config["OUTPUT"]["rag_test_responses_path"]
-        result_path = config["OUTPUT"]["rag_test_results_path"]
-        error_path = config["OUTPUT"]["rag_test_error_analysis_path"]
+        result_path = config["RESULTS"]["rag_test_prompt_path"]
+        error_path = config["RESULTS"]["rag_test_error_analysis_path"]
     else:
         prediction_path = config["OUTPUT"]["simple_prompt_responses_path"]
-        result_path = config["OUTPUT"]["simple_prompt_results_path"]
-        error_path = config["OUTPUT"]["simple_prompt_error_analysis_path"]
+        result_path = config["RESULTS"]["simple_prompt_results_path"]
+        error_path = config["RESULTS"]["simple_prompt_error_analysis_path"]
     
     ground_truths_path = config["PATH"]["test_ground_truth_path"]
     labels = config["PATH"]["relations_path"]
-  
-    labels = read_json(labels).keys()
+
+    labels = read_json("/Users/sefika/phd_projects/RAG4RE-extension/data/tacred/rel2id.json")
     predictions = read_json(prediction_path)
-    ground_truths = read_json(ground_truths_path)
+    ground_truths = read_json(ground_truths_path).values()
+    # print(ground_truths)
+    if config["SETTINGS"]['dataset'] =="semeval":
+        print(labels)
+        labels = labels["relation"]['names']
+        ground_truths = [labels[id] for id in ground_truths]
+    else:
+        predictions = [tt.replace(" ","_").lower() for tt in predictions]
+
+        labels = labels.keys()
+
+    # print(predictions)
     prec, recall, f1, preds = compute_scores(predictions, ground_truths, labels)
 
     result_metrics = {"Precision":[prec],
