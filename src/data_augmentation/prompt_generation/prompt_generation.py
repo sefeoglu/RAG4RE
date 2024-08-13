@@ -56,7 +56,7 @@ def tacred_format(test_data, relations, similar_sentences, type="rag"):
 
     return prompts
 
-def semeval_format(test_data, relations, similar_sentences, labels, prompt_type="simple"):
+def semeval_format(test_data, relations, similar_sentences, prompt_type="simple"):
     """Regenerate prompt for semeval dataset
 
     Args:
@@ -71,6 +71,7 @@ def semeval_format(test_data, relations, similar_sentences, labels, prompt_type=
     """
     
     relation_names = list(set(relations))
+    labels = relations
     relations = ", ".join([relation for relation in relation_names])
     prompts = []
 
@@ -102,7 +103,6 @@ def semeval_format(test_data, relations, similar_sentences, labels, prompt_type=
             prompt = semeval_prompt_template(sentence, relations, head, tail, head_name, tail_name)
         
         if prompt_type == "rag":
-            context = context[index]
             prompt = semeval_prompt_template_rag(sentence, relations, head, tail, head_name, tail_name, context['similar_sentence'])
             
         prompts.append({"prompt":prompt, "relation":label})
@@ -131,9 +131,9 @@ def generate_prompts(sentences, relations, similar_sentences,  dataset="tacred",
     if dataset == "semeval":
         
         if type == "simple":
-            prompts = semeval_format(sentences, relations, relations)
+            prompts = semeval_format(sentences, relations, similar_sentences)
         else:
-            prompts = semeval_format(sentences, relations, relations, prompt_type)
+            prompts = semeval_format(sentences, relations, similar_sentences, prompt_type)
     else:
 
         if prompt_type == "simple":
@@ -143,5 +143,3 @@ def generate_prompts(sentences, relations, similar_sentences,  dataset="tacred",
     
     return prompts
     
-
-
