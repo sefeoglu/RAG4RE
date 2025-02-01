@@ -34,7 +34,7 @@ Note that TACRED is licensed by the Linguistic Data Consortium (LDC), so we cann
 ├── LICENSE
 ├── README.md
 ├── data                            ---> dataset, such as tacred, tacrev, re-tacred and semeval
-├── results                         ---> results will be saved here.
+├── results                         ---> results and the results of the ablation study will be saved here.
 └── src
     ├── config.ini                  ---> configuration for dataset, approach and llm and results.
     ├── data_preparation
@@ -47,6 +47,7 @@ Note that TACRED is licensed by the Linguistic Data Consortium (LDC), so we cann
     │   └── prompt_generation
     ├── generation_module           ---> llm prompting.
     │   └── generation.py
+    ├── ablation_study              ---> ablation study for prompt engineering approaches.
     ├── evaluation                  ---> evaluate and visualize results. 
     │   ├── results_analysis.py
     │   └── vizualization.py
