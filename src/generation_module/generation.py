@@ -55,7 +55,9 @@ class LLM(object):
         Returns:
             response (str): response from the model
         """
-        
+        if "Llama3" in self.model:
+            return self.get_prediction_llama3(self.model, self.tokenizer, prompt, length)
+    
         inputs = self.tokenizer(prompt, add_special_tokens=True, max_length=526,return_tensors="pt").input_ids.to("cuda")
         
         outputs = self.model.generate(inputs, max_new_tokens=length)
@@ -63,6 +65,39 @@ class LLM(object):
         response = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
         
         return response
+
+
+    def get_prediction_llama3(model,tokenizer, prompt, length=250,stype='greedy'):
+        messages = [
+        {"role": "system", "content": "You are a  chatbot who always responds the question"},
+        {"role": "user", "content": prompt},
+        ]
+
+        input_ids = tokenizer.apply_chat_template(
+            messages,
+            add_generation_prompt=True,
+            return_tensors="pt"
+        ).to(model.device) # Ensure input_ids are on the correct device
+
+        terminators = [
+            tokenizer.eos_token_id,
+            tokenizer.convert_tokens_to_ids("<|eot_id|>")
+]
+
+        outputs = model.generate(
+            input_ids,
+            max_new_tokens=length, # Use the passed length parameter
+            eos_token_id=terminators,
+            do_sample=True,
+            temperature=0.6,
+            top_p=0.9,
+        )
+        # Decode the generated response, excluding the input prompt tokens
+        response = tokenizer.batch_decode(outputs[:, input_ids.shape[-1]:], skip_special_tokens=True)[0]
+
+
+        return response
+
     
     def get_model_decoder(self, model_id="meta-llama/Llama-2-7b-chat-hf"):
         """loades the model from Hugging Face such llama and mistral

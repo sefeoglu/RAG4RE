@@ -20,6 +20,14 @@ def read_json(path):
 
     return data
 
+def write_json(path, data):
+    """ Write a json file to the given path."""
+    if not os.path.exists(os.path.dirname(path)):
+        os.makedirs(os.path.dirname(path))
+    print(path)
+    with open(path, 'w', encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+
 def tacred_format(test_data, relations, similar_sentences, type="rag"):
     """Regenerate prompt for tacred and its variants like tacrev, re-tacred
 
@@ -78,7 +86,10 @@ def semeval_format(test_data, relations, similar_sentences, prompt_type="simple"
 
         label = labels[index]
         sentence = line
-        context = similar_sentences[index]
+        if len(similar_sentences) == 0:
+            context = ''
+        else:
+            context = similar_sentences[index]
 
         e1_index = sentence.find("<e1>")
         e2_index = sentence.find("<e2>")
@@ -141,4 +152,11 @@ def generate_prompts(sentences, relations, similar_sentences,  dataset="tacred",
             prompts = tacred_format(sentences, relations, similar_sentences, prompt_type)
     
     return prompts
-    
+if  __name__ == "__main__":
+    train_data = read_json("/Users/sefika/phd_projects/revision/RAG4RE/data/semeval/original_data/train_sentences.json")
+    relation_data = read_json("/Users/sefika/phd_projects/revision/RAG4RE/data/semeval/original_data/train_relations.json")
+    relation_names = read_json("/Users/sefika/phd_projects/revision/RAG4RE/data/semeval/original_data/relations.json")['relation']['names']
+    train_relations = [relation_names[relation] for relation in relation_data]
+
+    prompts = generate_prompts(train_data, train_relations, [],  dataset="semeval", prompt_type="simple")
+    write_json( "/Users/sefika/phd_projects/revision/RAG4RE/data/semeval/original_data/train_prompts.json", prompts)
