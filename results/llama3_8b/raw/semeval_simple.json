@@ -1,0 +1,8153 @@
+[
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 in the given sentence is Content-Container."
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Product-Producer."
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Instrument-Agency."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "The relation type between e1 and e2 in the given sentence is Content-Container."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Instrument-Agency."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Destination"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Destination"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Member-Collection."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Message-Topic."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Instrument-Agency."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 in the given sentence is Instrument-Agency."
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Instrument-Agency."
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "The relation type between e1 and e2 in the given sentence is Entity-Origin."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Destination"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Member-Collection."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Destination"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "The relation type between e1 and e2 in the given sentence is Instrument-Agency."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Product-Producer"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "The relation type between e1 and e2 is Content-Container."
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Member-Collection"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Message-Topic"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Cause-Effect"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Content-Container"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Instrument-Agency"
+    },
+    {
+        "predict": "Component-Whole"
+    },
+    {
+        "predict": "Entity-Origin"
+    },
+    {
+        "predict": "Entity-Origin"
+    }
+]
