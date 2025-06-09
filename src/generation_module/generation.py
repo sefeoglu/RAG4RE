@@ -55,7 +55,7 @@ class LLM(object):
         Returns:
             response (str): response from the model
         """
-        if "Llama3" in self.model:
+        if "Llama" in self.model:
             return self.get_prediction_llama3(self.model, self.tokenizer, prompt, length)
     
         inputs = self.tokenizer(prompt, add_special_tokens=True, max_length=526,return_tensors="pt").input_ids.to("cuda")
