@@ -7,7 +7,6 @@
 
 The repository consists of the source codes of "Retrieval-Augmented Generation-based Relation Extraction" journal paper which has been submitted to Semantic Web Journal (SWJ).
 
-#### Note: This project's paper was accepted to Semantic Web Journal (SWJ)!
 
 ### To cite its preprint:
 ```
